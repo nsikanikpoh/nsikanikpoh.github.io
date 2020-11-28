@@ -471,6 +471,37 @@
     }
   ],
   "projects": [
+     {
+      "sn": 1,
+      "projectTitle": "SmartUp App",
+      "periodStart": "June 2019",
+      "periodEnd": "Till date",
+      "toolsUsed": [
+        "Ruby",
+        "Ruby on rails",
+        "JavaScript",
+        "git",
+        "HTML5",
+        "CSS3",
+        "React",
+        "Electron",
+        "Postgresql",
+        "WebRTC",
+        "WebSocket",
+        "Heroku",
+        "Heroku CI"
+      ],
+      "tags": [
+        "learning",
+        "virtual",
+        "education",
+        "schools",
+        "students",
+        "educators"
+      ],
+      "shortInfo": "Student Leaning  System and School management system. Facilitates learning by providing access to managed  course videos, practice questions, past examination questions. Student use it to solve practice questions, take practice tests, access class continuous assessments, quizzes, assignments,  terminal and mock examinations created by their educators. Includes Recorded videos and Virtual classes features. Performance virtualization of students and class performances over school years and terms. Allows schools to manage their entire learning process, creating classes, assigning educators, and students. Allows parents to track the activities of their kids. I built the back-end API with ruby on rails and front-end with React.",
+      "link": "https://smartupwebapp.herokuapp.com/login"
+    },
     {
       "sn": 14,
       "projectTitle": "Traffic Rules",
