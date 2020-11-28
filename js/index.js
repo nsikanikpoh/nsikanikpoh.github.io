@@ -233,7 +233,7 @@ $(document).ready(function(){
 
   // jQuery methods go here...
 console.log('Got document ready');
-$.ajax({url: "js/profile.json"}).done(function(d){
+$.ajax({url: "https://nsikanikpoh.github.io/js/profile.json"}).done(function(d){
 	var data = $.parseJSON(d);
     console.log('Got profile:', data);
     profile = data;
