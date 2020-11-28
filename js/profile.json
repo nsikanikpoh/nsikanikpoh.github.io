@@ -472,266 +472,163 @@
   ],
   "projects": [
     {
-      "sn": 14,
-      "projectTitle": "Traffic Rules",
-      "periodStart": "July 2015",
-      "periodEnd": "Nov 2015",
-      "toolsUsed": [
-        "Blender",
-        "Movie Maker"
-      ],
-      "tags": [
-        "blender",
-        "animation",
-        "3d-modelling",
-        "traffic rules"
-      ],
-      "shortInfo": "Its a 3D animation video made using Blender Tool for spreading awareness regarding Traffic rules. Mini project for semester III.",
-      "link": "https://github.com/moghya/Traffic-Rules"
-    },
-    {
-      "sn": 13,
-      "projectTitle": "Smart Hospital Management",
-      "periodStart": "Aug 2015",
-      "periodEnd": "Sep 2015",
-      "toolsUsed": [
-        "c++",
-        "qt"
-      ],
-      "tags": [
-        "oop",
-        "c++",
-        "qt",
-        "gui",
-        "files"
-      ],
-      "shortInfo": "C++ Qt Standalone Application keeps track of every patient and its visits. Data collected can be used for Projects of Data Mining and Machine Learning as data sets.",
-      "link": "https://github.com/moghya/smartHMS"
-    },
-    {
-      "sn": 12,
-      "projectTitle": "Seat Allocation",
-      "periodStart": "Dec 2015",
-      "periodEnd": "Dec 2015",
-      "toolsUsed": [
-        "c++"
-      ],
-      "tags": [
-        "c++",
-        "gayle-shapely",
-        "ds",
-        "oop"
-      ],
-      "shortInfo": "Simulation of college seat allocation process. Choice filling and Seat Allocation are performed. Modified Gayle-Shapely Algorithm implemented. Can be scaled using C++ CGI for deployment.",
-      "link": "https://github.com/moghya/collegeSeatAllocationPrototype"
-    },
-    {
-      "sn": 11,
-      "projectTitle": "Online External Examination Portal",
-      "periodStart": "Feb 2016",
-      "periodEnd": "May 2016",
-      "toolsUsed": [
-        "php",
-        "js",
-        "mysql",
-        "html",
-        "css",
-        "bootstrap"
-      ],
-      "tags": [
-        "php",
-        "js",
-        "bootstrap",
-        "mysql"
-      ],
-      "shortInfo": "It's a web application developed using PHP , MySQL, Bootstrap, JavaScript etc. for conducting practical exams online.",
-      "link": "https://github.com/moghya/external-exam-portal"
-    },
-    {
-      "sn": 9,
-      "projectTitle": "LookIn",
-      "periodStart": "Mar 2016",
-      "periodEnd": "May 2016",
-      "toolsUsed": [
-        "python",
-        "sqllite3",
-        "beautifulsoup",
-        "requests"
-      ],
-      "tags": [
-        "search engine",
-        "python",
-        "indexing",
-        "web scraping"
-      ],
-      "shortInfo": "It's a search engine made using Python, Beautifulsoup . Which crawls downloaded websites and indexes them. After one time indexing it delivers search results ",
-      "link": ""
-    },
-    {
-      "sn": 3,
-      "projectTitle": "dsalglib ",
-      "periodStart": "May 2016",
-      "periodEnd": "Present",
-      "toolsUsed": [
-        "c++"
-      ],
-      "tags": [
-        "ds",
-        "algo",
-        "template",
-        "c++"
-      ],
-      "shortInfo": "Its a ready to use data structures and algorithms c++ template library.Many useful data structures and algorithms are implemented . One should just focus on his/her project necessity and dsalglib will take care of data structures and algorithms.",
-      "link": "http://moghya.me/dsalglib/"
-    },
-    {
       "sn": 1,
-      "projectTitle": "Strategic Location using Facebook Data",
-      "periodStart": "Dec 2016",
-      "periodEnd": "Dec 2016",
+      "projectTitle": "SmartUp App",
+      "periodStart": "June 2019",
+      "periodEnd": "Till date",
       "toolsUsed": [
-        "python",
-        "scikit-learn",
-        "ipynb",
-        "graph-api"
+        "Ruby",
+        "Ruby on rails",
+        "JavaScript",
+        "git",
+        "HTML5",
+        "CSS3",
+        "React",
+        "Electron",
+        "Postgresql",
+        "WebRTC",
+        "WebSocket",
+        "Heroku",
+        "Heroku CI"
       ],
       "tags": [
-        "machine-learning",
-        "regression",
-        "python"
+        "learning",
+        "virtual",
+        "education",
+        "schools",
+        "students",
+        "educators"
       ],
-      "shortInfo": "Choosing optimal location for business using data from social media websites contribute largely to the profit.Our System helps business choose optimal location for higher number of check-ins .indirectly helping businesses to increase their profits.We have used to machine learning techniques to help improve our system.",
-      "link": "https://github.com/moghya/Stratergic-Location"
+      "shortInfo": "Student Leaning  System and School management system. Facilitates learning by providing access to managed  course videos, practice questions, past examination questions. Student use it to solve practice questions, take practice tests, access class continuous assessments, quizzes, assignments,  terminal and mock examinations created by their educators. Includes Recorded videos and Virtual classes features. Performance virtualization of students and class performances over school years and terms. Allows schools to manage their entire learning process, creating classes, assigning educators, and students. Allows parents to track the activities of their kids. I built the back-end API with ruby on rails and front-end with React.",
+      "link": "https://smartupwebapp.herokuapp.com/login"
     },
     {
       "sn": 2,
-      "projectTitle": "prowessIndex",
-      "periodStart": "June 2017",
-      "periodEnd": "June 2017",
-      "toolsUsed": [
-        "python",
-        "flask",
-        "pandas"
-      ],
-      "tags": [
-        "python",
-        "data analytics"
-      ],
-      "shortInfo": "This is a simple flask web app implementation of a paper that I'm writing 'Making Sense of Numbers'. This paper proposes method for deriving inferences about prowessness of a stduent using attained graded.",
-      "link": "http://novatoscript.pythonanywhere.com/"
-    },
-    {
-      "sn": 7,
-      "projectTitle": "FollowScreen",
-      "periodStart": "Jul 2016",
-      "periodEnd": "Jul 2016",
-      "toolsUsed": [
-        "python",
-        "pyautogui",
-        "tkinter"
-      ],
-      "tags": [
-        "screen-recording",
-        "python",
-        "autmation"
-      ],
-      "shortInfo": "Its a screen recorder written in python. It records the screen activities.I used PyAutoGUI and PIL modules for this.Audio capturing is yet to be added.",
-      "link": "https://github.com/moghya/followscreen"
-    },
-    {
-      "sn": 8,
-      "projectTitle": "Digital Library Portal",
-      "periodStart": "Feb 2017",
-      "periodEnd": "May 2017",
-      "toolsUsed": [
-        "QuilJs",
-        "php",
-        "mysql",
-        "JavaScript"
-      ],
-      "tags": [
-        "webapp",
-        "php",
-        "mysql",
-        "js",
-        "materialize"
-      ],
-      "shortInfo": "According to the requirements taken Developed a Digital Library Portal for College Library. All of the sections are dynamic and everything is editable using Admin Panel. Used Quill-Js for implementing Editor for Admin. PHP, MySQL is used.",
-      "link": "#"
-    },
-    {
-      "sn": 5,
-      "projectTitle": "Book Bank Allotment System",
-      "periodStart": "Jan 2017",
-      "periodEnd": "May 2017",
+      "projectTitle": "Lokoja Online Mall",
+      "periodStart": "August 2020",
+      "periodEnd": "August 2020",
       "toolsUsed": [
         "php",
-        "mongodb",
-        "js"
+        "woocommerce",
+        "wordpress",
+        "Mysql",
+        "Apache",
+        "paystack"
       ],
       "tags": [
-        "mongodb",
-        "nosql",
-        "php"
+        "e-commerce",
+        "marketplace",
+        "Lokoja",
+        "Kogi",
+        "merchants",
+        "customers",
+        "buying",
+        "selling"
       ],
-      "shortInfo": "Developed a Web Application using PHP and MongoDB for Book Bank Allotment done by AGCL library of WCE, Sangli. Automated process of Allocation, it was done manually and use to take almost 15-20 days for completion. Our system does it in a single day.",
-      "link": "#"
+      "shortInfo": "Lokoja First Online  Mall. Marketplace operated in Lokoja, Kogi state, Nigeria. Vendors and customers interaction. ",
+      "link": "https://crest.ng/"
+    },
+
+    {
+      "sn": 3,
+      "projectTitle": "Milmap (Donation Management System)",
+      "periodStart": "November 2018",
+      "periodEnd": "January 2019",
+      "toolsUsed": [
+        "Ruby",
+        "HTML5",
+        "CSS3",
+        "git",
+        "Ruby on rails",
+        "JavaScript",
+        "Dynamics365 crm",
+        "Postgresql",
+        "Fussion Passenger",
+        "Nginx",
+        "Cent OS server",
+      ],
+      "tags": [
+        "donation",
+        "management",
+        "ngo",
+        "milmap",
+        "supporters"
+      ],
+      "shortInfo": "Donation Management System helped the owner (an NGO) to manage donations from their supporters at several levels of membership. Represent them on 8 hierarchy levels promoted based on donations and referrals. The api feeds data to dynamic 365 crm and automates the interation between their call center and the crm. I Built the call center router api and web interface and rest api  with ruby on rails. Mobile app with ionic and angular.",
+      "link": "https://milmap.actionaid-ngr.org/"
     },
     {
       "sn": 4,
-      "projectTitle": "Detection and Prevention of Black hole Attack in MANET",
-      "periodStart": "Jul 2016",
-      "periodEnd": "Nov 2016",
+      "projectTitle": "YourMobileDoc",
+      "periodStart": "November 2017",
+      "periodEnd": "Feburuary 2018",
       "toolsUsed": [
-        "c++",
-        "ns2",
-        "tcl",
-        "awk"
+        "php",
+        "HTML5",
+        "CSS3",
+        "MySQL",
+        "Apache"
+
       ],
       "tags": [
-        "c++",
-        "blackhole-attack",
-        "ns2"
+        "doctor",
+        "patients",
+        "medical",
+        "prescriptions"
       ],
-      "shortInfo": "It was a Team Project. We made changes in AODV protocol to simulate Black hole attack in Mobile and Adhoc Network​ and later implemented techniques for prevention of the Attack.",
-      "link": "#"
+      "shortInfo": "Allows for Doctors and Patience signup, have online interrogations, schedule appointments, get medical prescriptions, and live interactions.",
+      "link": "https://app.yourmobiledoc.com/"
     },
     {
-      "sn": 10,
-      "projectTitle": "JNV Washim Alumni Portal",
-      "periodStart": "Dec 2015",
-      "periodEnd": "Jan 2016",
+      "sn": 5,
+      "projectTitle": "Crestkaraoke Bar Process App",
+      "periodStart": "Apirl 2020",
+      "periodEnd": "July 2020",
       "toolsUsed": [
-        "php",
-        "mysql",
-        "js"
+        "Ruby",
+        "Ruby on rails",
+        "JavaScript",
+        "git",
+        "HTML5",
+        "CSS3",
+        "Postgresql",
+        "Heroku"
       ],
       "tags": [
-        "webapp",
-        "php",
-        "mysql",
-        "js"
+        "crestkaraoke",
+        "process",
+        "management",
+        "staffs",
+        "manager",
+        "routines"
       ],
-      "shortInfo": "Developed a Web Application for Alumni Portal of Jawahar Navodaya Vidyalaya,Washim. It's developed using PHP, HTML, CSS,JavaScript, Bootstrap. All out of scratch. We used MySQL database . Alumni of JNV Washim have to register here with there details and we can searchfor Alumnus with filters.",
-      "link": "http://www.jnvwashimalumni.org/"
+      "shortInfo": "Bar process management app. Allows allocation of routines, sales documentation and checking etc. Gives the admin access to monitor sales and activities of waitress, accountant, kitchen staffs, bartender, snooker man etc.",
+      "link": "https://crestkaraoke.herokuapp.com"
     },
     {
       "sn": 6,
-      "projectTitle": "toGithub",
-      "periodStart": "May 2017",
-      "periodEnd": "Present",
+      "projectTitle": "AcetraceCMS",
+      "periodStart": "Mar 2018",
+      "periodEnd": "May 2018",
       "toolsUsed": [
-        "python",
-        "PyGithub",
-        "requests",
-        "beautifulsoup"
+        "Ruby",
+        "Ruby on rails",
+        "JavaScript",
+        "git",
+        "HTML5",
+        "CSS3",
+        "Postgresql",
+        "Heroku",
+        "paystack"
       ],
       "tags": [
-        "scraping",
-        "git-api"
+        "legal case",
+        "lawfirms",
+        "attorneys",
+        "clients"
       ],
-      "shortInfo": "A python app developed for scraping solutions from Sport Programming Websites and uploding them to Github.",
-      "link": "https://github.com/moghya/toGithub"
+      "shortInfo": "Legal Case Management System. Allows law firms to subscribe to it and manage the entire legal case processes. Allowing the client to have virtual discussions with the assigned attorneys, with case progress management. I built the whole system with ruby on rails. Etc.",
+      "link": "https://legalcacems.herokuapp.com/"
     }
   ],
   "summary": "<p>Hello, I'm a Software Engineer and Computer science enthusiast and B.Tech Computer Science/Cyber Security graduate having 4+ years of experience as Software Development Engineer in Tech firms. As of now I'm involved in developing distributed system software for Storage Management.</p>\n\n<p>I'm passionate about creating simple solutions to complex problems and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
