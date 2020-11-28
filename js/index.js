@@ -233,13 +233,10 @@ $(document).ready(function(){
 
   // jQuery methods go here...
 console.log('Got document ready');
-	$.get("https://nsikanikpoh.github.io/js/profile.json", 
-		function(data, status){
-			console.log('Got profile:',data,' \nwith status:',status);
-			if(status!=="success") {
-				window.location.href = "/error.html";
-			}
-			profile = data;
+$.ajax({url: "js/profile.json"}).done(function(d){
+	var data = $.parseJSON(d);
+    console.log('Got profile:', data);
+    profile = data;
 			var pInfo = profile.personalInfo;
 			$('title').html(pInfo.nick+'|Portfolio');
 			$('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
@@ -266,11 +263,16 @@ console.log('Got document ready');
 			loadSkills(profile.skills);
 			loadProjects(profile.projects);
 			loadWorks(profile.experince);
-			//loadEducations(profile.educations);
+			loadEducations(profile.educations);
 			loadSlySays();
 			console.log('body loaded calling');
 			onBodyLoad();
-	});
+}).fail(function(){
+            console.log("An error has occurred.");
+            window.location.href = "/error.html";
+      });
+
+
 
 });
 
