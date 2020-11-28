@@ -167,8 +167,7 @@ swal({
 		 	  closeModal: true
 		 	}
 		 }
-});
-.then((value)=>{
+}).then((value)=>{
  	if(value===true) {
  		swal({
  			title: "Hello Talent Scout,",
