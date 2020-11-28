@@ -5,7 +5,7 @@
 		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 		<meta content="utf-8" http-equiv="encoding">
 		<meta name="description" content="Portfolio webspace of Nsikan | Sylvester Ikpoh | A softeware engineer, computer science enthusiast and passionate programmer, involved in software development.">
-		<meta name="keywords" content="Nsikan, Sylvester, Ikpoh, engineer, developer, programmer, hacker, software, web, machine learninng, github, open source, template, media.net, fut minna, Nigeria, c++, ruby, javascript, project,">
+		<meta name="keywords" content="Nsikan, Sylvester, Ikpoh, engineer, developer, programmer, hacker, software, web, machine learninng, github, open source, template, media.net, walchand college, navodaya, c++, python, javascript, project,">
 		<meta name="author" content="nsikan, nsikanikpoh@gmail.com">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="subject" content="nsikan | A Software Engineer">
@@ -29,7 +29,17 @@
 		<meta name="twitter:image:src" content="http://nsikanikpoh.github.io/img/profilePic.jpg" />
 		<meta name="twitter:domain" content="nsikanikpoh.github.io"/>
 
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144249374-1"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-144249374-1');
+		</script>
+
 		<base target="_blank" rel="noopener noreferrer">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 		<link rel="shortcut icon" type="image/png" href="/img/favicon.ico"/>
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
@@ -50,9 +60,43 @@
 		<link rel="stylesheet" type="text/css" href="css/main.css">
 	</head>
 	<body>
-		
-			<h1>TEST 232323</h2>
-			
+		<div class="row content">
+			<div id="pagea" class="page col m3 s12">
+				<div class="row"><h1 id="name" class="center-align"></h1></div>
+				<div id="image" class="row"><img class="circle" src="" alt="profile-image"></div>
+				<div id="contact" class="row"></div>
+				<div id="summary" class="row"></div>
+				<div id="links" class="row"></div>
+			</div>
+			<div id="pageb" class="page col m9 s12">
+				<ul id="tabs" class="tabs">
+				</ul>
+				<div id="hello" class="info col m12 s12">
+					<div class="row">
+						<div class="col m6 s12 ">
+							<div id="helloText" class="row">	
+							</div>
+						</div>
+						<div class="col m6 s12">
+							<div id="believe" class="row">
+							</div>
+							<div id="likes" class="row">
+							</div>
+						</div>
+					</div>
+					<!-- Please support by not removing this section-->
+					<div id="slySays" class="row">
+					</div>
+				</div>
+				<div id="skills" class="info col m12 s12"></div>
+				<div id="projects" class="info col m12 s12 "></div>
+				<div id="experience" class="info col m12 s12"></div>
+				<div id="education" class="info col m12 s12"></div>		
+			</div>
+		</div>
+		<div class="progress">
+			<div class="indeterminate"></div>
+		</div>
 	</body>
 	<script src="js/index.js"></script>
 </html>
