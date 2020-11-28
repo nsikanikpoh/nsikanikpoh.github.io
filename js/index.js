@@ -229,7 +229,11 @@ function loadSlySays() {
 	$('#slySays').html(slySaysInnerHtml);
 }
 
-$.getJSON("https://nsikanikpoh.github.io/js/profile.json", 
+$(document).ready(function(){
+
+  // jQuery methods go here...
+console.log('Got document ready');
+	$.getJSON("https://nsikanikpoh.github.io/js/profile.json", 
 		function(data, status){
 			console.log('Got profile:',data,' \nwith status:',status);
 			if(status!=="success") {
@@ -268,5 +272,5 @@ $.getJSON("https://nsikanikpoh.github.io/js/profile.json",
 			onBodyLoad();
 	});
 
-
+});
 
