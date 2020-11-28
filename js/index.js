@@ -167,35 +167,34 @@ swal({
 		 	  closeModal: true
 		 	}
 		 }
-});
-//.then((value)=>{
- 	//if(value===true) {
- //		swal({
- //			title: "Hello Talent Scout,",
+}).then((value)=>{
+ 	if(value===true) {
+ 		swal({
+ 			title: "Hello Talent Scout,",
  			text: "Thank you for visiting my webspace. I hope you'll find relevant information here. If you need any other information, kindly reach to me. \n\n Do you need a copy of my resume?",
- //			buttons: {
- //				cancel: {
- //				  text: "I have your resume.",
- //				  value: false,
- //				  visible: true,
- //				  className: "button-cancel",
- //				  closeModal: true,
- //				},
- //				confirm: {
- //				  text: "Yes, sure.",
- //				  value: true,
- //				  visible: true,
- //				  className: "button-confirm",
- //				  closeModal: true
- //				}
- //			}
- //		}).then((value)=>{
- //			if(value===true) { 
- //				window.open('/Resume_Nsikan_Ikpoh.pdf');
- //			}
- //		})
-//	}
-// });
+ 			buttons: {
+ 				cancel: {
+ 				  text: "I have your resume.",
+ 				  value: false,
+ 				  visible: true,
+ 				  className: "button-cancel",
+ 				  closeModal: true,
+ 				},
+ 				confirm: {
+ 				  text: "Yes, sure.",
+ 				  value: true,
+ 				  visible: true,
+ 				  className: "button-confirm",
+ 				  closeModal: true
+ 				}
+ 			}
+ 		}).then((value)=>{
+ 			if(value===true) { 
+ 				window.open('/Resume_Nsikan_Ikpoh.pdf');
+ 			}
+ 		})
+ 	}
+ });
 
 
 function loadSlySays() {
