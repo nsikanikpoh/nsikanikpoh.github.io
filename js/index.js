@@ -233,11 +233,11 @@ $(document).ready(function(){
 
   // jQuery methods go here...
 console.log('Got document ready');
-$.ajax({url: "https://nsikanikpoh.github.io/js/profile.json"}).done(function(d){
-	var data = $.parseJSON(d);
-    console.log('Got profile:', data);
-    profile = data;
-			var pInfo = profile.personalInfo;
+
+ $.getJSON("js/profile.json", function(data){
+            console.log('Got profile:', data);
+            profile = data;
+            var pInfo = profile.personalInfo;
 			$('title').html(pInfo.nick+'|Portfolio');
 			$('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
 			$('#image img').attr('src','img/'+pInfo.myimg);
@@ -267,12 +267,10 @@ $.ajax({url: "https://nsikanikpoh.github.io/js/profile.json"}).done(function(d){
 			loadSlySays();
 			console.log('body loaded calling');
 			onBodyLoad();
-}).fail(function(){
+        }).fail(function(){
             console.log("An error has occurred.");
-            window.location.href = "/error.html";
-      });
-
-
+            // window.location.href = "/error.html";
+        });
 
 });
 
