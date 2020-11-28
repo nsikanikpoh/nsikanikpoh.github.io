@@ -16,273 +16,671 @@
   },
   "educations": [
     {
-      "periodStart": "July 2014",
-      "periodEnd": "May 2018",
-      "course": "B.Tech Information Technology",
-      "score": "7.59 CGPA",
-      "inst": "Walchand College of Engineering, Sangli",
-      "board": "Shivaji University",
+      "periodStart": "April 2020",
+      "periodEnd": "August 2020",
+      "course": "c++ learning path",
+      "score": "----",
+      "inst": "pluralsight.com",
+      "board": "pluralsight.com",
       "courses": [
         {
-          "courseCode": "3IT202",
-          "courseName": "Data Structures",
-          "courseScore": "9/10",
+          "courseCode": "",
+          "courseName": "Data structures and algorithms in c++",
+          "courseScore": "",
           "sn": 1
         },
         {
-          "courseCode": "3IT304",
-          "courseName": "Computer Algorithms",
-          "courseScore": "7/10",
+          "courseCode": "",
+          "courseName": "design patterns in c++",
+          "courseScore": "",
           "sn": 2
         },
         {
-          "courseCode": "3IT331",
-          "courseName": "Machine Learning",
-          "courseScore": "10/10",
+          "courseCode": "",
+          "courseName": "high performance computing in c++",
+          "courseScore": "",
           "sn": 3
         },
         {
-          "courseCode": "3OE---",
-          "courseName": "Data Analytics",
-          "courseScore": "8/10",
+          "courseCode": "",
+          "courseName": "c++ stl algorithms",
+          "courseScore": "",
           "sn": 4
         },
         {
-          "courseCode": "3IT211",
-          "courseName": "Theory of Computation",
-          "courseScore": "8/10",
+          "courseCode": "",
+          "courseName": "advanced c++ mocking and unit testing",
+          "courseScore": "",
           "sn": 5
-        },
-        {
-          "courseCode": "3IT201",
-          "courseName": "Discrete Mathemactics",
-          "courseScore": "7/10",
-          "sn": 6
-        },
-        {
-          "courseCode": "3IT303",
-          "courseName": "Operating System",
-          "courseScore": "8/10",
-          "sn": 10
-        },
-        {
-          "courseCode": "3IT322",
-          "courseName": "Unix Operating System",
-          "courseScore": "8/10",
-          "sn": 11
-        },
-        {
-          "courseCode": "3IT301",
-          "courseName": "Database Engineering",
-          "courseScore": "9/10",
-          "sn": 12
-        },
-        {
-          "courseCode": "3IT321",
-          "courseName": "Advanced Database Engineering",
-          "courseScore": "9/10",
-          "sn": 13
-        },
-        {
-          "courseCode": "3IT204",
-          "courseName": "Data Communication and Networking",
-          "courseScore": "7/10",
-          "sn": 15
-        },
-        {
-          "courseCode": "3IT213",
-          "courseName": "Computer and Wireless Networks",
-          "courseScore": "6/10",
-          "sn": 16
-        },
-        {
-          "courseCode": "3IT263",
-          "courseName": "Computer and Wireless Networks Lab",
-          "courseScore": "8/10",
-          "sn": 34
-        },
-        {
-          "courseCode": "3IT212",
-          "courseName": "Computer Organization and Architechture",
-          "courseScore": "7/10",
-          "sn": 18
-        },
-        {
-          "courseCode": "3IT372",
-          "courseName": "Parallel Programming Lab",
-          "courseScore": "10/10",
-          "sn": 32
-        },
-        {
-          "courseCode": "3IT324",
-          "courseName": "Information Storage and Management",
-          "courseScore": "6/10",
-          "sn": 21
-        },
-        {
-          "courseCode": "3MA204",
-          "courseName": "Linear Algebra",
-          "courseScore": "7/10",
-          "sn": 7
-        },
-        {
-          "courseCode": "3MA215",
-          "courseName": "Statistics and Fuzzy Systems",
-          "courseScore": "6/10",
-          "sn": 8
-        },
-        {
-          "courseCode": "3IT252",
-          "courseName": "Data Structures Lab",
-          "courseScore": "10/10",
-          "sn": 29
-        },
-        {
-          "courseCode": "3IT203",
-          "courseName": "Processor Architechture",
-          "courseScore": "7/10",
-          "sn": 17
-        },
-        {
-          "courseCode": "3IT281",
-          "courseName": "Mini Project - I",
-          "courseScore": "10/10",
-          "sn": 22
-        },
-        {
-          "courseCode": "3IT214",
-          "courseName": "System Programming",
-          "courseScore": "7/10",
-          "sn": 19
-        },
-        {
-          "courseCode": "3IT255",
-          "courseName": "Programming Lab - I (C++)",
-          "courseScore": "10/10",
-          "sn": 26
-        },
-        {
-          "courseCode": "3IT352",
-          "courseName": "Web Technology Lab",
-          "courseScore": "9/10",
-          "sn": 33
-        },
-        {
-          "courseCode": "3IT342",
-          "courseName": "Mini Project - IV",
-          "courseScore": "10/10",
-          "sn": 25
-        },
-        {
-          "courseCode": "3IT341",
-          "courseName": "Mini-Project - III",
-          "courseScore": "10/10",
-          "sn": 24
-        },
-        {
-          "courseCode": "3IT302",
-          "courseName": "Software Engineering Design",
-          "courseScore": "7/10",
-          "sn": 20
-        },
-        {
-          "courseCode": "3IT371",
-          "courseName": "Unix Operating System Lab",
-          "courseScore": "10/10",
-          "sn": 30
-        },
-        {
-          "courseCode": "3IT282",
-          "courseName": "Mini Project - II",
-          "courseScore": "10/10",
-          "sn": 23
-        },
-        {
-          "courseCode": "3IT265",
-          "courseName": "Programming Lab - II (Java)",
-          "courseScore": "10/10",
-          "sn": 27
-        },
-        {
-          "courseCode": "3IT312",
-          "courseName": "Cloud Computing",
-          "courseScore": "7/10",
-          "sn": 14
-        },
-        {
-          "courseCode": "3IT323",
-          "courseName": "Information Theory",
-          "courseScore": "8/10",
-          "sn": 9
-        },
-        {
-          "courseCode": "2IT253",
-          "courseName": "Processor Architechture Lab",
-          "courseScore": "10/10",
-          "sn": 28
-        },
-        {
-          "courseCode": "3IT351",
-          "courseName": "Database Engineering Lab",
-          "courseScore": "10/10",
-          "sn": 31
         }
       ]
     },
     {
-      "periodStart": "April 2013",
-      "periodEnd": "May 2014",
-      "course": "All India Senior School Examination",
+      "periodStart": "October 2019",
+      "periodEnd": "March 2020",
+      "course": "mastering c++ and object-oriented programming",
+      "score": "----",
+      "inst": "learncpp.com",
+      "board": "learncpp.com",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "mastering c++ and object-oriented programming",
+          "courseScore": "",
+          "sn": 1
+        }
+      ]
+    },
+    {
+      "periodStart": "June 2019",
+      "periodEnd": "July 2019",
+      "course": "ruby on rails level up curriculum",
+      "score": "----",
+      "inst": "Andela",
+      "board": "Andela",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Data Structures and Algorithms",
+          "courseScore": "",
+          "sn": 1
+        },
+        {
+          "courseCode": "",
+          "courseName": "REST API",
+          "courseScore": "",
+          "sn": 2
+        },
+        {
+          "courseCode": "",
+          "courseName": "Sturing SQL Queries",
+          "courseScore": "",
+          "sn": 3
+        },
+        {
+          "courseCode": "",
+          "courseName": "Web development with Ruby on rails",
+          "courseScore": "",
+          "sn": 4
+        },
+        {
+          "courseCode": "",
+          "courseName": "Ruby on rails API design",
+          "courseScore": "",
+          "sn": 5
+        },
+        {
+          "courseCode": "",
+          "courseName": "Final Project to Build a Facebook Clone",
+          "courseScore": "",
+          "sn": 6
+        }
+      ]
+    },
+    {
+      "periodStart": "November 2018",
+      "periodEnd": "December 2018",
+      "course": "Machine Learning with Microsoft Inc",
+      "score": "----",
+      "inst": "Coursera",
+      "board": "Coursera",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Machine Learning",
+          "courseScore": "",
+          "sn": 1
+        }
+      ]
+    },
+    {
+      "periodStart": "August 2016",
+      "periodEnd": "December 2016",
+      "course": "Ethical Hacking",
+      "score": "----",
+      "inst": "Cybrary Inc",
+      "board": "Cybrary Inc",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Ethical Hacking and Penetration Testing",
+          "courseScore": "",
+          "sn": 1
+        },
+        {
+          "courseCode": "",
+          "courseName": "Project Management Professional",
+          "courseScore": "",
+          "sn": 2
+        }
+      ]
+    },
+    {
+      "periodStart": "January 2015",
+      "periodEnd": "Feburuary 2015",
+      "course": "Python for informatics",
+      "score": "----",
+      "inst": "COURSERA",
+      "board": "COURSERA",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Python for informatics",
+          "courseScore": "",
+          "sn": 1
+        }
+      ]
+    },
+    {
+      "periodStart": "August 2014",
+      "periodEnd": "Feburuary 2015",
+      "course": "Cisco Certified Network Associate. (CCNA)",
+      "score": "----",
+      "inst": " Information and Communication Services (ITS)",
+      "board": "Federal University of Technology, Minna, Niger State, Nigeria",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Cisco Certified Network Associate. (CCNA)",
+          "courseScore": "",
+          "sn": 1
+        }
+      ]
+    },
+    {
+      "periodStart": "July 2014",
+      "periodEnd": "May 2018",
+      "course": "B.Tech Computer Science and Cyber Security",
+      "score": "4.43 CGPA",
+      "inst": "Federal University of Technology, Minna",
+      "board": "Federal University",
+      "courses": [
+        {
+          "courseCode": "CPT515",
+          "courseName": "Artificial Intelligence",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS515",
+          "courseName": "Biometric Security Technology",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS514",
+          "courseName": "Cyber Forensics",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS513",
+          "courseName": "Penetration Testing I",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS512",
+          "courseName": "Ethical Hacking and Countermeasures II",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS511",
+          "courseName": "Enterpreneurship II",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS529",
+          "courseName": "Final Year Project: Local Network Monitoring and Intrution Detection",
+          "courseScore": "30/30",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS525",
+          "courseName": "Internet Protocol Version 6 (IPv6)",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS524",
+          "courseName": "Penetration Testing II",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS523",
+          "courseName": "Development in J2EE Environment",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS522",
+          "courseName": "Current Trends in Cyber Security",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS521",
+          "courseName": "e-Business Security",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "MAT412",
+          "courseName": "Discrete Mathematics",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS416",
+          "courseName": "Cloud Computing",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS415",
+          "courseName": "Disaster Recovery",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS414",
+          "courseName": "Security Analysis Vulnerability",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS413",
+          "courseName": "Security Strategies for Web Application and Social Networks",
+          "courseScore": "9/15",
+          "sn": "C"
+        },
+        {
+          "courseCode": "CSS412",
+          "courseName": "Ethical Hacking and Countermeasures I",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS411",
+          "courseName": "Digital Forensics",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CPT413",
+          "courseName": "System Operations Research",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "GST311",
+          "courseName": "Enterpreneurship Studies",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS312",
+          "courseName": "Cryptography Theory II",
+          "courseScore": "9/15",
+          "sn": "C"
+        },
+        {
+          "courseCode": "CSS313",
+          "courseName": "Wireless Networking",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS314",
+          "courseName": "Advanced Web and Portal Design",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CPT313",
+          "courseName": "Operating System",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CPT316",
+          "courseName": "System Analysis and Design",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS311",
+          "courseName": "Cybercrime and Countermeasures",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CPT317",
+          "courseName": "Architecture for Network and Communication",
+          "courseScore": "9/15",
+          "sn": "C"
+        },
+        {
+          "courseCode": "GST104",
+          "courseName": "Introduction to Economics",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS322",
+          "courseName": "Network Management and Security",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS323",
+          "courseName": "Cybercrime Law",
+          "courseScore": "8/10",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS324",
+          "courseName": "Operating System Security",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS325",
+          "courseName": "Introduction to Web Hacking",
+          "courseScore": "9/15",
+          "sn": "C"
+        },
+        {
+          "courseCode": "CSS326",
+          "courseName": "Software Engineering",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS327",
+          "courseName": "Development in the .NET Environment",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS321",
+          "courseName": "Information Security Threats, Attacks and Defences",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "GST211",
+          "courseName": "Logic and Philosophy",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "STA217",
+          "courseName": "Linear Algebra",
+          "courseScore": "8/10",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CPT214",
+          "courseName": "Computer Architecture",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CPT213",
+          "courseName": "Introduction to Computer Systems",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CPT211",
+          "courseName": "Object Oriented Programming I",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS216",
+          "courseName": "Automata Theory",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "MAT225",
+          "courseName": "Introduction to Numerical Analysis",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "MAT222",
+          "courseName": "Linear Algebra",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CPT223",
+          "courseName": "Introduction to Algorithms",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CPT222",
+          "courseName": "Data Structures",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CPT221",
+          "courseName": "Object Oriented Programming II",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS224",
+          "courseName": "Cryptography Theory",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CSS223",
+          "courseName": "Algorithms",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CSS222",
+          "courseName": "Fundamental of Information Security",
+          "courseScore": "9/15",
+          "sn": "C"
+        },
+        {
+          "courseCode": "WKS110",
+          "courseName": "Workshop Practices",
+          "courseScore": "4/5",
+          "sn": "B"
+        },
+        {
+          "courseCode": "MAT112",
+          "courseName": "Vector, Geometry and Dynamics",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "STA117",
+          "courseName": "Introduction to Statistics",
+          "courseScore": "8/10",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CPT111",
+          "courseName": "Introduction to Computer",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "PHY113",
+          "courseName": "Mechanics",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CHM111",
+          "courseName": "Physical Chemistry",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "CHM112",
+          "courseName": "Inorganic Chemistry I",
+          "courseScore": "8/10",
+          "sn": "B"
+        },
+        {
+          "courseCode": "GST110",
+          "courseName": "Use of English I and Library",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "MAT111",
+          "courseName": "Algebra and Trigonometry",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "TCD111",
+          "courseName": "Technical Drawing",
+          "courseScore": "1/5",
+          "sn": "E"
+        },
+        {
+          "courseCode": "GST121",
+          "courseName": "Use of English II",
+          "courseScore": "8/10",
+          "sn": "B"
+        },
+        {
+          "courseCode": "STA127",
+          "courseName": "Probability I",
+          "courseScore": "6/10",
+          "sn": "C"
+        },
+        {
+          "courseCode": "CPT121",
+          "courseName": "Introduction to Programming",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "CHM121",
+          "courseName": "General Chemistry II (Organic)",
+          "courseScore": "12/15",
+          "sn": "B"
+        },
+        {
+          "courseCode": "GST103",
+          "courseName": "Nigerian People and Culture",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "GST105",
+          "courseName": "Introduction to Nigerian Law",
+          "courseScore": "10/10",
+          "sn": "A"
+        },
+        {
+          "courseCode": "PHY123",
+          "courseName": "Properties of Matter",
+          "courseScore": "6/10",
+          "sn": "C"
+        },
+        {
+          "courseCode": "PHY126",
+          "courseName": "Electricity and Magnetism",
+          "courseScore": "15/15",
+          "sn": "A"
+        },
+        {
+          "courseCode": "MAT121",
+          "courseName": "Differential and Integral Calculus",
+          "courseScore": "15/15",
+          "sn": "A"
+        }
+      ]
+    },
+    {
+      "periodStart": "April 2000",
+      "periodEnd": "May 2006",
+      "course": "West African Senior School Certificate Examination",
       "score": "89.4%",
-      "inst": "Jawahar Navodaya Vidyalaya,Washim",
-      "board": "CBSE Chennai",
+      "inst": "Government Secondary School Afaha Eket, AKS, Nigeria",
+      "board": "West African Examination Council WAEC",
       "courses": [
         {
           "courseCode": "041",
           "courseName": "Mathemactics",
-          "courseScore": "86/100",
-          "sn": 1
+          "courseScore": "60-69/100",
+          "sn": "C4"
         },
         {
           "courseCode": "042",
           "courseName": "Physics",
-          "courseScore": "87/100",
-          "sn": 2
+          "courseScore": "80-89/100",
+          "sn": "B2"
         },
         {
           "courseCode": "043",
           "courseName": "Chemistry",
-          "courseScore": "86/100",
-          "sn": 3
+           "courseScore": "60-69/100",
+          "sn": "C4"
         },
         {
           "courseCode": "083",
-          "courseName": "Computer Science",
-          "courseScore": "94/100",
-          "sn": 4
-        }
-      ]
-    },
-    {
-      "periodStart": "April 2011",
-      "periodEnd": "May 2012",
-      "course": "All India Secondary School Examination",
-      "score": "10.00 CGPA",
-      "inst": "Jawahar Navodaya Vidyalaya,Washim",
-      "board": "CBSE Chennai",
-      "courses": [
+          "courseName": "Agricultural Science",
+          "courseScore": "70-79/100",
+          "sn": "B3"
+        },
+
         {
-          "courseCode": "041",
-          "courseName": "Mathemactics",
-          "courseScore": "10/10",
-          "sn": 1
+          "courseCode": "0411",
+          "courseName": "English Language",
+          "courseScore": "50-54/100",
+          "sn": "C6"
         },
         {
-          "courseCode": "086",
-          "courseName": "Science",
-          "courseScore": "10/10",
-          "sn": 2
+          "courseCode": "0422",
+          "courseName": "Geography",
+          "courseScore": "70-79/100",
+          "sn": "B3"
+        },
+        {
+          "courseCode": "0438",
+          "courseName": "Further Mathemactics",
+           "courseScore": "50-54/100",
+          "sn": "C6"
+        },
+        {
+          "courseCode": "0832",
+          "courseName": "Economics",
+          "courseScore": "70-79/100",
+          "sn": "B3"
         }
+        ,
+        {
+          "courseCode": "0431",
+          "courseName": "Biology",
+           "courseScore": "60-69/100",
+          "sn": "C4"
+        },
+       {
+          "courseCode": "0439",
+          "courseName": "Technical Drawing",
+           "courseScore": "50-54/100",
+          "sn": "C6"
+        },
       ]
     }
   ],
@@ -295,7 +693,7 @@
     {
       "sn": 2,
       "name": "Ruby",
-      "icon": "M137,160h-26c-5.51,0-10,4.49-10,10s4.49,10,10,10h26c5.51,0,10-4.49,10-10S142.51,160,137,160z"
+      "icon": "M268.331,160c-5.511,0-10,4.49-10,10s4.489,10,10,10c5.52,0,10-4.49,10-10S273.851,160,268.331,160z"
     },
     {
       "sn": 3,
@@ -304,8 +702,8 @@
     },
     {
       "sn": 4,
-      "name": "Ruby on Rails",
-      "icon": "M219.115365,150.633753 C219.115365,150.633753 241.684635,148.699244 241.684635,119.552645 C241.684635,90.4060453 214.343577,87.697733 214.343577,87.697733 L165.078086,87.697733 L165.078086,179.651385 L189.839798,179.651385 L189.839798,157.469018 L211.248363,179.651385 L247.875063,179.651385 L219.115365,150.633753 Z M209.571788,131.804534 L189.839798,131.804534 L189.839798,110.782872 L209.700756,110.782872 C209.700756,110.782872 215.246348,112.846348 215.246348,121.229219 C215.246348,129.612091 209.571788,131.804534 209.571788,131.804534 Z M302.815113,88.3425693 L277.666499,88.3425693 C259.74005,88.3425693 253.678589,104.592443 253.678589,112.330479 L253.678589,179.651385 L278.827204,179.651385 L278.827204,163.530479 L302.428212,163.530479 L302.428212,179.651385 L326.803023,179.651385 L326.803023,112.330479 C326.803023,92.7274559 309.005542,88.3425693 302.815113,88.3425693 Z M302.428212,137.479093 L278.698237,137.479093 L278.698237,115.167758 C278.698237,115.167758 278.698237,110.138035 286.565239,110.138035 L295.206045,110.138035 C302.170277,110.138035 302.299244,115.167758 302.299244,115.167758 L302.299244,137.479093 L302.428212,137.479093 Z M338.281108,88.3425693 L364.461461,88.3425693 L364.461461,179.651385 L338.281108,179.651385 L338.281108,88.3425693 Z M401.217128,156.050378 L401.217128,88.3425693 L375.165743,88.3425693 L375.165743,156.050378 L375.165743,179.651385 L401.217128,179.651385 L436.425189,179.651385 L436.425189,156.050378 L401.217128,156.050378 Z M445.065995,156.308312 L445.065995,179.651385 L487.238287,179.651385 C495.879093,179.651385 510.710327,173.33199 511.226196,155.663476 L511.226196,146.635768 C511.226196,131.546599 498.84534,122.647859 487.238287,122.647859 L466.216625,122.647859 L466.216625,111.81461 L507.873048,111.81461 L507.873048,88.3425693 L467.893199,88.3425693 C457.575819,88.3425693 443.776322,96.8544081 443.776322,112.71738 L443.776322,120.842317 C443.776322,136.70529 457.446851,144.830227 467.893199,144.830227 C496.910831,144.959194 460.928967,144.830227 487.754156,144.830227 L487.754156,156.179345 L445.065995,156.308312 Z"
+      "name": "Rails",
+      "icon": "M9.02770781,179.522418 L110.911839,179.522418 C110.911839,179.522418 91.4377834,90.6639798 155.921411,54.6821159 C169.978841,47.8468514 214.730479,22.311335 287.983879,76.4775819 C290.30529,74.543073 292.497733,72.995466 292.497733,72.995466 C292.497733,72.995466 225.434761,6.06146096 150.76272,13.5415617 C113.233249,16.8947103 67.0629723,51.0710327 39.9798489,96.2095718 C12.8967254,141.348111 9.02770781,179.522418 9.02770781,179.522418 Z M221.307809,20.763728 L221.823678,12.1229219 C220.662972,11.4780856 217.438791,9.93047859 209.313854,7.60906801 L208.797985,16.1209068 C213.053904,17.5395466 217.180856,19.0871537 221.307809,20.763728 Z M209.055919,48.1047859 L208.54005,56.2297229 C212.79597,56.3586902 217.051889,56.8745592 221.307809,57.77733 L221.823678,49.7813602 C217.438791,48.8785894 213.182872,48.3627204 209.055919,48.1047859 Z M161.338035,7.86700252 L162.627708,7.86700252 L160.048363,-7.10542736e-15 C156.050378,-7.10542736e-15 151.923426,0.257934509 147.667506,0.773803526 L150.117884,8.38287154 C153.857935,7.99596977 157.597985,7.86700252 161.338035,7.86700252 Z M167.528463,55.3269521 L170.49471,64.2256927 C174.234761,62.4201511 177.974811,60.8725441 181.714861,59.7118388 L178.877582,51.2 C174.492695,52.4896725 170.752645,53.9083123 167.528463,55.3269521 Z M108.97733,21.4085642 L103.173804,12.5098237 C99.9496222,14.186398 96.5964736,15.9919395 93.1143577,18.0554156 L99.0468514,27.0831234 C102.4,25.0196474 105.624181,23.0851385 108.97733,21.4085642 Z M135.415617,79.4438287 L141.606045,88.729471 C143.798489,85.5052897 146.377834,82.5390428 149.215113,79.572796 L143.411587,70.8030227 C140.44534,73.511335 137.737028,76.4775819 135.415617,79.4438287 Z M116.715365,120.971285 L127.161713,129.225189 C127.677582,124.195466 128.580353,119.165743 129.870025,114.13602 L120.584383,106.784887 C118.907809,111.556675 117.747103,116.328463 116.715365,120.971285 Z M60.2277078,59.7118388 L51.0710327,51.715869 C47.7178841,54.9400504 44.4937028,58.1642317 41.5274559,61.3884131 L51.4579345,69.9002519 C54.1662469,66.418136 57.1324937,62.9360202 60.2277078,59.7118388 Z M21.279597,117.360202 L6.44836272,111.943577 C3.99798489,117.489169 1.28967254,123.937531 0,127.419647 L14.8312343,132.836272 C16.5078086,128.451385 19.2161209,122.13199 21.279597,117.360202 Z M114.780856,153.728967 C115.038791,160.564232 115.683627,166.109824 116.328463,169.978841 L131.804534,175.524433 C130.643829,170.49471 129.483123,164.820151 128.70932,158.75869 L114.780856,153.728967 Z"
     },
     {
       "sn": 5,

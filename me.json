@@ -39,19 +39,19 @@
           "courseCode": "",
           "courseName": "high performance computing in c++",
           "courseScore": "",
-          "sn": 2
+          "sn": 3
         },
         {
           "courseCode": "",
           "courseName": "c++ stl algorithms",
           "courseScore": "",
-          "sn": 2
+          "sn": 4
         },
         {
           "courseCode": "",
           "courseName": "advanced c++ mocking and unit testing",
           "courseScore": "",
-          "sn": 2
+          "sn": 5
         }
       ]
     },
@@ -89,31 +89,31 @@
           "courseCode": "",
           "courseName": "REST API",
           "courseScore": "",
-          "sn": 1
+          "sn": 2
         },
         {
           "courseCode": "",
           "courseName": "Sturing SQL Queries",
           "courseScore": "",
-          "sn": 1
+          "sn": 3
         },
         {
           "courseCode": "",
           "courseName": "Web development with Ruby on rails",
           "courseScore": "",
-          "sn": 1
+          "sn": 4
         },
         {
           "courseCode": "",
           "courseName": "Ruby on rails API design",
           "courseScore": "",
-          "sn": 1
+          "sn": 5
         },
         {
           "courseCode": "",
           "courseName": "Final Project to Build a Facebook Clone",
           "courseScore": "",
-          "sn": 1
+          "sn": 6
         }
       ]
     },
@@ -151,7 +151,7 @@
           "courseCode": "",
           "courseName": "Project Management Professional",
           "courseScore": "",
-          "sn": 1
+          "sn": 2
         }
       ]
     },
