@@ -149,11 +149,11 @@ $(window).resize(onWindowResize);
 var profile;
 swal({
 		title: "Hello World!!!",
-		text: "Hello visitor, you have landed upon little webspace of Nsikan Ikpoh. I hope you are great."
-		 buttons: ["Nope, I'm just looking around.", "Yes, I'm hiring :)"]
+		text: "Hello visitor, you have landed upon little webspace of Nsikan Ikpoh. I hope you are great.",
+		// buttons: ["Nope, I'm just looking around.", "Yes, I'm hiring :)"],
 		 buttons: {
 		 	cancel: {
-		 	  text: "Nope.",
+		 	  text: "Nope., I'm just looking around.",
 		 	  value: false,
 		 	  visible: true,
 		 	  className: "button-cancel",
