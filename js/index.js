@@ -229,13 +229,40 @@ function loadSlySays() {
 	$('#slySays').html(slySaysInnerHtml);
 }
 
-$.get("js/profile.json", 
+$.getJSON("js/profile.json", 
 	function(data, status){
 		console.log('Got profile:',data,' \nwith status:',status);
 		if(status!=="success") {
 			window.location.href = "/error.html";
 		}
-		
+		profile = data;
+		var pInfo = profile.personalInfo;
+		$('title').html(pInfo.nick+'|Portfolio');
+		$('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
+		$('#image img').attr('src','img/'+pInfo.myimg);
+		$('#contact').html(pInfo.mob+'</br>'+pInfo.email);
+		$('#summary').html(profile.summary);
+		$('#tabs').html(`					
+			<li class="tab col s2"><a href="#hello">Hello</a></li>
+			<li class="tab col s2"><a href="#skills">Skills</a></li>
+			<li class="tab col s2"><a href="#projects">Projects</a></li>
+			<li class="tab col s3"><a href="#experience">Experience</a></li>
+			<li class="tab col s3"><a href="#education">Education</a></li>
+		`);
+		$('#believe').html('<h4>I believe</h4><span></span>');
+		const typed = new Typed('#believe span', {
+			strings: profile.qoutes,
+			typeSpeed: 40,
+			cursorChar:"_",
+			loop:true
+		});
+		loadLikes(profile.likes);
+		$('#helloText').html(profile.helloText);
+		loadLinks(profile.profileLinks);
+		loadSkills(profile.skills);
+		loadProjects(profile.projects);
+		loadWorks(profile.experince);
+		//loadEducations(profile.educations);
 		loadSlySays();
 		console.log('body loaded calling');
 		onBodyLoad();
