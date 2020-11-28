@@ -1,18 +1,18 @@
 {
-   "personalInfo": {
+    "personalInfo": {
     "myimg": "profilePic.jpg",
-    "fname": "Nsikan",
-    "mname": "Sylvester",
-    "lname": "Ikpoh",
-    "nick": "ns_sly",
+    "fname": "Shubham",
+    "mname": "Parashram",
+    "lname": "Sawant",
+    "nick": "moghya",
     "address": {
       "list": [
-        "D66, BUA Estate, Kado District, Abuja, Nigeria",
-        "Block B, Masoku Close, Off, Durban, Street, Wuse II, Abuja, Nigeria"
+        "Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
+        "'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
       ]
     },
-    "email": "nsikanikpoh@gmail.com",
-    "mob": "+234-806-296-1184"
+    "email": "sawantshubham571@gmail.com",
+    "mob": "+91 0000 000 000"
   },
   "educations": [
     {
