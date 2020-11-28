@@ -470,9 +470,10 @@
       "type": "work"
     }
   ],
+
   "projects": [
     {
-      "sn": 1,
+      "sn": 14,
       "projectTitle": "SmartUp App",
       "periodStart": "June 2019",
       "periodEnd": "November 2020",
@@ -503,7 +504,7 @@
       "link": "https://smartupwebapp.herokuapp.com/login"
     },
     {
-      "sn": 2,
+      "sn": 13,
       "projectTitle": "Lokoja Online Mall",
       "periodStart": "August 2020",
       "periodEnd": "August 2020",
@@ -529,7 +530,7 @@
       "link": "https://crest.ng/"
     },
     {
-      "sn": 3,
+      "sn": 12,
       "projectTitle": "Milmap (Donation Management System)",
       "periodStart": "November 2018",
       "periodEnd": "January 2019",
@@ -557,7 +558,7 @@
       "link": "https://milmap.actionaid-ngr.org/"
     },
     {
-      "sn": 4,
+      "sn": 11,
       "projectTitle": "YourMobileDoc",
       "periodStart": "November 2017",
       "periodEnd": "Feburuary 2018",
@@ -579,7 +580,7 @@
       "link": "https://app.yourmobiledoc.com/"
     },
     {
-      "sn": 5,
+      "sn": 10,
       "projectTitle": "Crestkaraoke Bar Process App",
       "periodStart": "Apirl 2020",
       "periodEnd": "July 2020",
@@ -605,7 +606,7 @@
       "link": "https://crestkaraoke.herokuapp.com"
     },
     {
-      "sn": 6,
+      "sn": 9,
       "projectTitle": "AcetraceCMS",
       "periodStart": "Mar 2018",
       "periodEnd": "May 2018",
