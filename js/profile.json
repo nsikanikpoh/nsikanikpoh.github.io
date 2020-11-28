@@ -610,6 +610,76 @@
           "sn": "A"
         }
       ]
+    },
+    {
+      "periodStart": "April 2000",
+      "periodEnd": "May 2006",
+      "course": "West African Senior School Certificate Examination",
+      "score": "89.4%",
+      "inst": "Government Secondary School Afaha Eket, AKS, Nigeria",
+      "board": "West African Examination Council WAEC",
+      "courses": [
+        {
+          "courseCode": "041",
+          "courseName": "Mathemactics",
+          "courseScore": "C4",
+          "sn": 1
+        },
+        {
+          "courseCode": "042",
+          "courseName": "Physics",
+          "courseScore": "B2",
+          "sn": 2
+        },
+        {
+          "courseCode": "043",
+          "courseName": "Chemistry",
+           "courseScore": "C4",
+          "sn": 3
+        },
+        {
+          "courseCode": "083",
+          "courseName": "Agricultural Science",
+          "courseScore": "B3",
+          "sn": 4
+        },
+        {
+          "courseCode": "0411",
+          "courseName": "English Language",
+          "courseScore": "C6",
+          "sn": 5
+        },
+        {
+          "courseCode": "0422",
+          "courseName": "Geography",
+          "courseScore": "B3",
+          "sn": 6
+        },
+        {
+          "courseCode": "0438",
+          "courseName": "Further Mathemactics",
+           "courseScore": "C6",
+          "sn": 7
+        },
+        {
+          "courseCode": "0832",
+          "courseName": "Economics",
+          "courseScore": "B3",
+          "sn": 8
+        },
+        {
+          "courseCode": "0431",
+          "courseName": "Biology",
+           "courseScore": "C460-69/100",
+          "sn": 9
+        },
+       {
+          "courseCode": "0439",
+          "courseName": "Technical Drawing",
+           "courseScore": "C6",
+          "sn": 10
+        },
+      ]
     }
   ],
   "skills": [
