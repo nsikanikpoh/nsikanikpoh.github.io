@@ -15,7 +15,6 @@
     "mob": "+234-806-296-1184"
   },
   "educations": [
-    ,
     {
       "periodStart": "April 2020",
       "periodEnd": "August 2020",
@@ -393,7 +392,7 @@
           "courseName": "Introduction to Web Hacking",
           "courseScore": "9/15",
           "sn": "C"
-        },,
+        },
         {
           "courseCode": "CSS326",
           "courseName": "Software Engineering",
@@ -676,7 +675,7 @@
            "courseScore": "60-69/100",
           "sn": "C4"
         },
-{
+       {
           "courseCode": "0439",
           "courseName": "Technical Drawing",
            "courseScore": "50-54/100",
@@ -685,6 +684,7 @@
       ]
     }
   ],
+
   "skills": [
     {
       "sn": 1,
@@ -782,6 +782,7 @@
       "icon": "kubernetes.svg"
     }
   ],
+
   "experince": [
     {
       "sn": 6,
