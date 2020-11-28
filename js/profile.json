@@ -500,7 +500,7 @@
         "students",
         "educators"
       ],
-      "shortInfo": "Student Leaning  System and School management system. Facilitates learning by providing access to managed  course videos, practice questions, past examination questions. Student use it to solve practice questions, take practice tests, access class continuous assessments, quizzes, assignments,  terminal and mock examinations created by their educators. Includes Recorded videos and Virtual classes features. Performance virtualization of students and class performances over school years and terms. Allows schools to manage their entire learning process, creating classes, assigning educators, and students. Allows parents to track the activities of their kids. I built the back-end API with ruby on rails and front-end with React.",
+      "shortInfo": "Student Leaning  System and School management system. Facilitates learning by providing access to managed  course videos, practice questions, past examination questions.",
       "link": "https://smartupwebapp.herokuapp.com/login"
     },
     {
@@ -554,7 +554,7 @@
         "milmap",
         "supporters"
       ],
-      "shortInfo": "Donation Management System helped the owner (an NGO) to manage donations from their supporters at several levels of membership. Represent them on 8 hierarchy levels promoted based on donations and referrals. The api feeds data to dynamic 365 crm and automates the interation between their call center and the crm. I Built the call center router api and web interface and rest api  with ruby on rails. Mobile app with ionic and angular.",
+      "shortInfo": "Donation Management System helped the owner to manage donations from their supporters at several levels of membership. Feeds data to dynamics crm where owners interact with their supporters",
       "link": "https://milmap.actionaid-ngr.org/"
     },
     {
