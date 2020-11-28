@@ -257,13 +257,13 @@ console.log('Got document ready');
 				cursorChar:"_",
 				loop:true
 			});
-			//loadLikes(profile.likes);
+			loadLikes(profile.likes);
 			$('#helloText').html(profile.helloText);
-			//loadLinks(profile.profileLinks);
-			//loadSkills(profile.skills);
-			//loadProjects(profile.projects);
-			//loadWorks(profile.experince);
-			//loadEducations(profile.educations);
+			loadLinks(profile.profileLinks);
+			loadSkills(profile.skills);
+			loadProjects(profile.projects);
+			loadWorks(profile.experince);
+			loadEducations(profile.educations);
 			loadSlySays();
 			console.log('body loaded calling');
 			onBodyLoad();
