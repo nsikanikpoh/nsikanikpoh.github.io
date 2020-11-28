@@ -238,7 +238,7 @@ console.log('Got document ready');
             console.log('Got profile:', data);
             profile = data;
             var pInfo = profile.personalInfo;
-			$('title').html(pInfo.nick+'|Portfolio');
+			$('title').html(pInfo.nick+' | Portfolio');
 			$('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
 			$('#image img').attr('src','img/'+pInfo.myimg);
 			$('#contact').html(pInfo.mob+'</br>'+pInfo.email);
