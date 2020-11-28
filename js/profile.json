@@ -16,6 +16,46 @@
   },
   "educations": [
      {
+      "periodStart": "April 2020",
+      "periodEnd": "August 2020",
+      "course": "c++ learning path",
+      "score": "----",
+      "inst": "pluralsight.com",
+      "board": "pluralsight.com",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Data structures and algorithms in c++",
+          "courseScore": "",
+          "sn": 1
+        },
+        {
+          "courseCode": "",
+          "courseName": "design patterns in c++",
+          "courseScore": "",
+          "sn": 2
+        },
+        {
+          "courseCode": "",
+          "courseName": "high performance computing in c++",
+          "courseScore": "",
+          "sn": 3
+        },
+        {
+          "courseCode": "",
+          "courseName": "c++ stl algorithms",
+          "courseScore": "",
+          "sn": 4
+        },
+        {
+          "courseCode": "",
+          "courseName": "advanced c++ mocking and unit testing",
+          "courseScore": "",
+          "sn": 5
+        }
+      ]
+    },
+     {
       "periodStart": "October 2019",
       "periodEnd": "March 2020",
       "course": "mastering c++ and object-oriented programming",
@@ -31,25 +71,119 @@
         }
       ]
     },
-    {
-      "periodStart": "April 2011",
-      "periodEnd": "May 2012",
-      "course": "All India Secondary School Examination",
-      "score": "10.00 CGPA",
-      "inst": "Jawahar Navodaya Vidyalaya,Washim",
-      "board": "CBSE Chennai",
+   {
+      "periodStart": "June 2019",
+      "periodEnd": "July 2019",
+      "course": "ruby on rails level up curriculum",
+      "score": "----",
+      "inst": "Andela",
+      "board": "Andela",
       "courses": [
         {
-          "courseCode": "041",
-          "courseName": "Mathemactics",
-          "courseScore": "10/10",
+          "courseCode": "",
+          "courseName": "Data Structures and Algorithms",
+          "courseScore": "",
           "sn": 1
         },
         {
-          "courseCode": "086",
-          "courseName": "Science",
-          "courseScore": "10/10",
+          "courseCode": "",
+          "courseName": "REST API",
+          "courseScore": "",
           "sn": 2
+        },
+        {
+          "courseCode": "",
+          "courseName": "Sturing SQL Queries",
+          "courseScore": "",
+          "sn": 3
+        },
+        {
+          "courseCode": "",
+          "courseName": "Web development with Ruby on rails",
+          "courseScore": "",
+          "sn": 4
+        },
+        {
+          "courseCode": "",
+          "courseName": "Ruby on rails API design",
+          "courseScore": "",
+          "sn": 5
+        },
+        {
+          "courseCode": "",
+          "courseName": "Final Project to Build a Facebook Clone",
+          "courseScore": "",
+          "sn": 6
+        }
+      ]
+    },
+    {
+      "periodStart": "November 2018",
+      "periodEnd": "December 2018",
+      "course": "Machine Learning with Microsoft Inc",
+      "score": "----",
+      "inst": "Coursera",
+      "board": "Coursera",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Machine Learning",
+          "courseScore": "",
+          "sn": 1
+        }
+      ]
+    },
+    {
+      "periodStart": "August 2016",
+      "periodEnd": "December 2016",
+      "course": "Ethical Hacking",
+      "score": "----",
+      "inst": "Cybrary Inc",
+      "board": "Cybrary Inc",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Ethical Hacking and Penetration Testing",
+          "courseScore": "",
+          "sn": 1
+        },
+        {
+          "courseCode": "",
+          "courseName": "Project Management Professional",
+          "courseScore": "",
+          "sn": 2
+        }
+      ]
+    },
+    {
+      "periodStart": "January 2015",
+      "periodEnd": "Feburuary 2015",
+      "course": "Python for informatics",
+      "score": "----",
+      "inst": "COURSERA",
+      "board": "COURSERA",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Python for informatics",
+          "courseScore": "",
+          "sn": 1
+        }
+      ]
+    },
+    {
+      "periodStart": "August 2014",
+      "periodEnd": "Feburuary 2015",
+      "course": "Cisco Certified Network Associate. (CCNA)",
+      "score": "----",
+      "inst": " Information and Communication Services (ITS)",
+      "board": "Federal University of Technology, Minna, Niger State, Nigeria",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "Cisco Certified Network Associate. (CCNA)",
+          "courseScore": "",
+          "sn": 1
         }
       ]
     }
