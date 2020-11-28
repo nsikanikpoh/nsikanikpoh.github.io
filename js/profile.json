@@ -295,7 +295,7 @@
     {
       "sn": 2,
       "name": "Ruby",
-      "icon": "ruby.svg"
+      "icon": "M137,160h-26c-5.51,0-10,4.49-10,10s4.49,10,10,10h26c5.51,0,10-4.49,10-10S142.51,160,137,160z"
     },
     {
       "sn": 3,
@@ -305,17 +305,17 @@
     {
       "sn": 4,
       "name": "Ruby on Rails",
-      "icon": "rails-seeklogo.svg"
+      "icon": "M219.115365,150.633753 C219.115365,150.633753 241.684635,148.699244 241.684635,119.552645 C241.684635,90.4060453 214.343577,87.697733 214.343577,87.697733 L165.078086,87.697733 L165.078086,179.651385 L189.839798,179.651385 L189.839798,157.469018 L211.248363,179.651385 L247.875063,179.651385 L219.115365,150.633753 Z M209.571788,131.804534 L189.839798,131.804534 L189.839798,110.782872 L209.700756,110.782872 C209.700756,110.782872 215.246348,112.846348 215.246348,121.229219 C215.246348,129.612091 209.571788,131.804534 209.571788,131.804534 Z M302.815113,88.3425693 L277.666499,88.3425693 C259.74005,88.3425693 253.678589,104.592443 253.678589,112.330479 L253.678589,179.651385 L278.827204,179.651385 L278.827204,163.530479 L302.428212,163.530479 L302.428212,179.651385 L326.803023,179.651385 L326.803023,112.330479 C326.803023,92.7274559 309.005542,88.3425693 302.815113,88.3425693 Z M302.428212,137.479093 L278.698237,137.479093 L278.698237,115.167758 C278.698237,115.167758 278.698237,110.138035 286.565239,110.138035 L295.206045,110.138035 C302.170277,110.138035 302.299244,115.167758 302.299244,115.167758 L302.299244,137.479093 L302.428212,137.479093 Z M338.281108,88.3425693 L364.461461,88.3425693 L364.461461,179.651385 L338.281108,179.651385 L338.281108,88.3425693 Z M401.217128,156.050378 L401.217128,88.3425693 L375.165743,88.3425693 L375.165743,156.050378 L375.165743,179.651385 L401.217128,179.651385 L436.425189,179.651385 L436.425189,156.050378 L401.217128,156.050378 Z M445.065995,156.308312 L445.065995,179.651385 L487.238287,179.651385 C495.879093,179.651385 510.710327,173.33199 511.226196,155.663476 L511.226196,146.635768 C511.226196,131.546599 498.84534,122.647859 487.238287,122.647859 L466.216625,122.647859 L466.216625,111.81461 L507.873048,111.81461 L507.873048,88.3425693 L467.893199,88.3425693 C457.575819,88.3425693 443.776322,96.8544081 443.776322,112.71738 L443.776322,120.842317 C443.776322,136.70529 457.446851,144.830227 467.893199,144.830227 C496.910831,144.959194 460.928967,144.830227 487.754156,144.830227 L487.754156,156.179345 L445.065995,156.308312 Z"
     },
     {
       "sn": 5,
       "name": "React",
-      "icon": "react.svg"
+      "icon": "M.754 114.75c0 19.215 18.763 37.152 48.343 47.263-5.907 29.737-1.058 53.706 15.136 63.045 16.645 9.6 41.443 2.955 64.98-17.62 22.943 19.744 46.13 27.514 62.31 18.148 16.63-9.627 21.687-35.221 15.617-65.887 30.81-10.186 48.044-25.481 48.044-44.949 0-18.769-18.797-35.006-47.979-45.052 6.535-31.933.998-55.32-15.867-65.045-16.259-9.376-39.716-1.204-62.996 19.056C104.122 2.205 80.897-4.36 64.05 5.392 47.806 14.795 43.171 39.2 49.097 69.487 20.515 79.452.754 96.057.754 114.75z"
     },
     {
       "sn": 6,
       "name": "Postgresql",
-      "icon": "postgresql-icon.svg"
+      "icon": "m18.983 18.636c.163-1.357.114-1.555 1.124-1.336l.257.023c.777.035 1.793-.125 2.4-.402 1.285-.596 2.047-1.592.78-1.33-2.89.596-3.1-.383-3.1-.383 3.053-4.53 4.33-10.28 3.227-11.687-3.004-3.84-8.205-2.024-8.292-1.976l-.028.005c-.57-.12-1.2-.19-1.93-.2-1.308-.02-2.3.343-3.054.914 0 0-9.277-3.822-8.846 4.807.092 1.836 2.63 13.9 5.66 10.25 1.109-1.334 2.179-2.461 2.179-2.461.53.353 1.167.533 1.834.468l.052-.044a2.01 2.01 0 0 0 .021.518c-.78.872-.55 1.025-2.11 1.346-1.578.325-.65.904-.046 1.056.734.184 2.432.444 3.58-1.162l-.046.183c.306.245.285 1.76.33 2.842s.116 2.093.337 2.688.48 2.13 2.53 1.7c1.713-.367 3.023-.896 3.143-5.81"
     },
     {
       "sn": 7,
@@ -330,7 +330,7 @@
     {
       "sn": 9,
       "name": "Nginx",
-      "icon": "nginx-ar21.svg"
+      "icon": "M6.01 8.247c-.114 0-.225-.044-.31-.128L3.114 5.533V7.8c0 .24-.196.437-.437.437S2.24 8.052 2.24 7.8V4.48c0-.177.107-.336.27-.404s.35-.03.476.095l2.586 2.586V4.48c0-.24.196-.437.437-.437s.437.196.437.437V7.8c0 .24-.196.437-.437.437m2.023-4.2l-.12.224-.93 1.688-.12.213.12.213.93 1.633.125.224h2.43l.12-.246.694-1.398.31-.634h-.704l-1.775.005c-.23-.003-.443.206-.443.437s.212.44.443.437l1.07-.005-.262.53H8.546l-.683-1.202.688-1.245h1.464l.34.7h.88l-.554-1.328-.12-.246h-2.53m4.426-.005c-.23.003-.434.214-.43.442v1.14h.874v-1.14c.003-.232-.2-.445-.442-.442m1.4 4.215c-.24 0-.437-.196-.437-.437V4.487c0-.24.196-.437.437-.437s.437.196.437.437v2.277l2.586-2.586c.125-.125.313-.162.476-.095s.27.227.27.404V7.82c0 .24-.196.437-.437.437s-.437-.196-.437-.437V5.542l-2.586 2.586c-.082.082-.193.128-.31.128m7.005-2.106l1.36-1.354c.17-.17.17-.447.001-.618s-.447-.17-.618-.001l-1.36 1.357-1.36-1.357c-.17-.17-.448-.17-.618.001s-.17.448.001.618l1.36 1.354L18.27 7.5c-.17.17-.17.447-.001.618.082.083.193.13.3.13s.223-.042.308-.128l1.357-1.353 1.357 1.353c.082.082.193.128.308.128s.224-.043.3-.13c.17-.17.17-.447-.001-.618l-1.355-1.35m-8.406 2.094c-.23-.003-.434-.214-.43-.442v-1.83h.874V7.8c.003.232-.2.445-.442.442"
     },
     {
       "sn": 10,
@@ -340,7 +340,7 @@
     {
       "sn": 11,
       "name": "NodeJS",
-      "icon": "nodejs.svg"
+      "icon": "M218.647 270.93c-1.46 0-2.91-.383-4.19-1.12l-13.337-7.896c-1.992-1.114-1.02-1.508-.363-1.735 2.656-.93 3.195-1.14 6.03-2.75.298-.17.688-.11.993.07l10.246 6.08c.37.2.895.2 1.238 0l39.95-23.06c.37-.21.61-.64.61-1.08v-46.1c0-.46-.24-.87-.618-1.1l-39.934-23.04c-.37-.22-.86-.22-1.23 0l-39.926 23.04c-.387.22-.633.65-.633 1.09v46.1c0 .44.24.86.62 1.07l10.94 6.32c5.94 2.97 9.57-.53 9.57-4.05v-45.5c0-.65.51-1.15 1.16-1.15h5.06c.63 0 1.15.5 1.15 1.15v45.52c0 7.92-4.32 12.47-11.83 12.47-2.31 0-4.13 0-9.21-2.5l-10.48-6.04c-2.59-1.5-4.19-4.3-4.19-7.29v-46.1c0-3 1.6-5.8 4.19-7.28l39.99-23.07c2.53-1.43 5.89-1.43 8.4 0l39.94 23.08c2.58 1.49 4.19 4.28 4.19 7.28v46.1c0 2.99-1.61 5.78-4.19 7.28l-39.94 23.07c-1.28.74-2.73 1.12-4.21 1.12"
     },
     {
       "sn": 12,
@@ -375,100 +375,91 @@
     {
       "sn": 18,
       "name": "AWS",
-      "icon": "aws.svg"
+      "icon": "M33.326132,94.9993909 L18.339736,89.6227411 L18.339736,67.6567716 L33.326132,72.7631269 L33.326132,94.9993909"
     },
     {
       "sn": 19,
       "name": "Docker",
-      "icon": "docker.svg"
+      "icon": "M38.617 173.984v-16.362c0-2.15 1.344-3.877 3.57-3.877h.616c2.225 0 3.563 1.729 3.563 3.877v34.447c0 8.4-4.15 15.084-11.382 19.342a21.374 21.374 0 0 1-10.945 2.985h-1.537c-8.402 0-15.077-4.153-19.342-11.38a21.314 21.314 0 0 1-2.984-10.947v-1.535c0-8.403 4.152-15.083 11.378-19.349a21.298 21.298 0 0 1 10.948-2.985h1.537c5.686 0 10.51 2.204 14.578 5.784zM7.924 191.3c0 6.068 2.941 10.63 8.258 13.54 2.15 1.176 4.484 1.808 6.937 1.808 5.956 0 10.374-2.81 13.421-7.857 1.417-2.348 2.077-4.917 2.077-7.648 0-5.26-2.49-9.365-6.729-12.414-2.57-1.848-5.463-2.775-8.618-2.775-6.492 0-11.164 3.28-13.968 9.106-.946 1.97-1.378 4.061-1.378 6.24zm65.324-23.1h1.074c8.978 0 15.806 4.355 20.133 12.192 1.73 3.135 2.656 6.557 2.656 10.142v1.535c0 8.4-4.142 15.093-11.385 19.343-3.353 1.967-7.057 2.984-10.943 2.984h-1.535c-8.402 0-15.079-4.153-19.342-11.38a21.316 21.316 0 0 1-2.987-10.947v-1.535c0-8.404 4.169-15.062 11.377-19.347 3.351-1.991 7.058-2.987 10.952-2.987zm-14.58 23.1c0 5.89 2.89 10.223 7.865 13.27 2.336 1.43 4.909 2.078 7.638 2.078 5.82 0 10.122-2.951 13.116-7.863 1.428-2.342 2.074-4.915 2.074-7.642 0-5.477-2.638-9.661-7.148-12.693-2.471-1.663-5.222-2.496-8.198-2.496-6.492 0-11.164 3.28-13.967 9.106-.948 1.97-1.38 4.061-1.38 6.24zm70.656-14.727c-1.17-.548-3.36-.73-4.624-.778-6.474-.244-11.158 3.402-13.906 9.113-.949 1.97-1.382 4.055-1.382 6.235 0 6.637 3.485 11.284 9.409 14.117 2.164 1.034 4.958 1.23 7.323 1.23 2.08 0 5.02-1.274 6.866-2.151l.32-.152h1.433l.158.032c1.762.367 3.092 1.484 3.092 3.38v.767c0 4.718-8.622 5.798-11.912 6.028-11.61.803-20.293-5.573-23.603-16.647-.575-1.923-.834-3.833-.834-5.837v-1.533c0-8.403 4.17-15.059 11.377-19.34 3.351-1.99 7.057-2.99 10.95-2.99h1.536c4.13 0 7.934 1.173 11.344 3.502l.28.194.177.292c.368.61.685 1.316.685 2.042v.767c0 1.978-1.48 3.042-3.266 3.386l-.148.026h-.458c-1.156 0-3.785-1.197-4.817-1.683zm25.134 5.247c3.01-3.014 6.03-6.022 9.085-8.986.851-.827 4.074-4.327 5.343-4.327h1.388l.158.033c1.768.367 3.092 1.486 3.092 3.386v.766c0 1.296-1.518 2.802-2.355 3.689-1.78 1.887-3.654 3.712-5.476 5.56l-9.362 9.504c4.031 4.04 8.058 8.083 12.056 12.154a313.304 313.304 0 0 1 3.301 3.396c.385.405.953.909 1.276 1.47.347.526.56 1.119.56 1.752v.8l-.045.185c-.435 1.768-1.557 3.194-3.516 3.194h-.617c-1.282 0-2.73-1.45-3.608-2.279-1.81-1.706-3.557-3.5-5.331-5.243l-5.949-5.84v9.334c0 2.15-1.346 3.878-3.569 3.878h-.61c-2.226 0-3.57-1.728-3.57-3.878v-52.596c0-2.15 1.345-3.87 3.57-3.87h.61c2.223 0 3.569 1.72 3.569 3.87v24.048zm96.577-13.313h.77c2.324 0 3.875 1.566 3.875 3.877 0 3.208-3.067 4.029-5.72 4.029-3.48 0-6.803 2.107-9.202 4.47-2.991 2.949-4.3 6.726-4.3 10.878v18.759c0 2.15-1.343 3.876-3.57 3.876h-.612c-2.227 0-3.569-1.725-3.569-3.876v-19.836c0-7.617 3.708-13.835 9.89-18.196 3.691-2.605 7.919-3.98 12.438-3.98zm-55.074 37.176c2.82.985 6.035.844 8.928.34 1.48-.629 5.264-2.28 6.656-2.038l.217.037.2.098c.85.412 1.661.995 2.095 1.86 1.014 2.027.527 4.065-1.465 5.216l-.663.383c-7.35 4.242-15.168 3.654-22.495-.308-3.503-1.894-6.183-4.705-8.16-8.132l-.462-.801c-4.719-8.172-4.082-16.768 1.24-24.539 1.837-2.686 4.238-4.761 7.045-6.384l1.062-.613c6.922-3.996 14.341-3.722 21.45-.215 3.823 1.886 6.92 4.697 9.054 8.394l.384.666c1.55 2.686-.458 5.026-2.531 6.626-2.406 1.856-4.835 4.09-7.141 6.08-5.142 4.439-10.276 8.888-15.414 13.33zm-6.655-4.674c5.75-4.93 11.502-9.865 17.237-14.816 1.96-1.69 4.109-3.444 6.053-5.221-1.56-1.966-4.166-3.383-6.38-4.228-4.47-1.703-8.877-1.131-12.976 1.235-5.365 3.098-7.65 8.031-7.45 14.17.08 2.418.73 4.748 2.013 6.805.452.725.957 1.406 1.503 2.055zM147.488 45.732h22.866v23.375h11.561c5.34 0 10.831-.951 15.887-2.664 2.485-.843 5.273-2.015 7.724-3.49-3.228-4.214-4.876-9.535-5.36-14.78-.66-7.135.78-16.421 5.608-22.005l2.404-2.78 2.864 2.303c7.211 5.793 13.276 13.889 14.345 23.118 8.683-2.554 18.878-1.95 26.531 2.467l3.14 1.812-1.652 3.226C246.933 68.946 233.4 72.86 220.17 72.167c-19.797 49.309-62.898 72.653-115.157 72.653-27 0-51.77-10.093-65.876-34.047l-.231-.39-2.055-4.182c-4.768-10.544-6.352-22.095-5.278-33.637l.323-3.457H51.45V45.732h22.865V22.866h45.733V0h27.44v45.732"
     },
     {
       "sn": 20,
       "name": "Kubernetes",
-      "icon": "kubernetes.svg"
+      "icon": "M82.0851613,244.934194 C76.1393548,244.934194 70.523871,242.291613 66.7251613,237.501935 L8.91870968,165.656774 C5.12,160.867097 3.63354839,154.756129 5.12,148.810323 L25.7651613,59.1277419 C27.0864516,53.1819355 31.0503226,48.3922581 36.5006452,45.7496774 L120.072258,5.78064516 C122.714839,4.45935484 125.687742,3.79870968 128.660645,3.79870968 C131.633548,3.79870968 134.606452,4.45935484 137.249032,5.78064516 L220.820645,45.5845161 C226.270968,48.2270968 230.234839,53.0167742 231.556129,58.9625806 L252.20129,148.645161 C253.522581,154.590968 252.20129,160.701935 248.402581,165.491613 L190.596129,237.336774 C186.797419,241.96129 181.181935,244.769032 175.236129,244.769032 L82.0851613,244.934194 L82.0851613,244.934194 Z"
     }
   ],
-  "experince": [
+ "experince": [
     {
-      "sn": 6,
-      "link": "",
-      "workPosition": "Scout Troop Leader",
-      "periodStart": "April 2010",
-      "periodEnd": "May 2012",
-      "organisation": "JNV,Washim",
-      "experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
-      "type": "volunteer"
-    },
-    {
-      "sn": 5,
-      "link": "http://wcepace.in/",
-      "workPosition": "Asst. Program Director in Events",
-      "periodStart": "April 2015",
-      "periodEnd": "March 2016",
-      "organisation": "Personality Advancement Circle of Engineers.",
-      "experience": "Learnt how to organize professional events and actvites, how to manage resources and make most out of everything.",
-      "type": "volunteer"
-    },
-    {
-      "sn": 4,
-      "link": "http://wcepace.in/",
-      "workPosition": "Joint. Skills Developer",
-      "periodStart": "April 2016",
-      "periodEnd": "January 2017",
-      "organisation": "Personality Advancement Circle of Engineers.",
-      "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
-      "type": "volunteer"
-    },
-    {
-      "sn": 3,
-      "link": "http://wcepace.in/",
-      "workPosition": "Cheif. Skills Developer",
-      "periodStart": "January 2017",
-      "periodEnd": "December 2017",
-      "organisation": "Personality Advancement Circle of Engineers.",
-      "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
-      "type": "volunteer"
+      "sn": 1,
+      "link": "https://smartuptech.com",
+      "workPosition": "Full stack developer",
+      "periodStart": "June 2019",
+      "periodEnd": "Till date",
+      "organisation": "SmartupTech",
+      "experience": "Cut software rework time by 18%. Decimated production bugs by getting 97% buy-in for test-driven development program. Increased code reliability by 35% and slashed security risk 23%. Built Reliable, Scalable, and Maintainable Applications as a Full stack engineer. Back-end Ruby/Ruby on Rails and Front-end React. Built desktop app with electron. Created  C++ solutions to solve evolving problems. Responsible for Technical Leadership and Mentor-ship, scaling and bug-fixes, cloud platform monitoring, continuous integration and delivery.",
+      "type": "work"
     },
     {
       "sn": 2,
-      "link": "http://pitchteq.com/",
-      "workPosition": "PHP Developer",
-      "periodStart": "July 2016",
-      "periodEnd": "July 2018",
-      "organisation": "PitchTeQ ",
-      "experience": "A group of college students established a web solutions startup. Worked on an e-commerce project.",
+      "link": "https://nativedge.com/",
+      "workPosition": "software developer",
+      "periodStart": "March 2018",
+      "periodEnd": "May 2019",
+      "organisation": "Nativedge ",
+      "experience": "Led team of 5 programmers handling end-to-end software development life cycle for 13 client projects. Slashed security breaches 28% by automating standards enforcement. Raised code efficiency 35%. Cut lead times 23%. Raised client retention 35%.  Increased customer satisfaction 25%. Built Reliable, Scalable, and Maintainable Applications. Created and Deployed custom solutions, Test security of Systems, Provide Technical Leadership and Mentor-ship. Write utility programs. Prepare Specification documents and refine requirements. Application Monitoring, Continuous Integration and Delivery.",
       "type": "work"
     },
     {
-      "sn": 1,
-      "link": "http://www.praxisinfotech.com/",
-      "workPosition": "Web Development Intern",
-      "periodStart": "June 2017",
-      "periodEnd": "July 2017",
-      "organisation": "Praxis Infotech ",
-      "experience": "Developed a PHP, MySQL web application. Added a layer on top of Google maps for places and events.",
+      "sn": 3,
+      "link": "https://www.3dhubtech.com.ng/",
+      "workPosition": "software developer",
+      "periodStart": "May 2017",
+      "periodEnd": "March 2018",
+      "organisation": "3DHub Technologies",
+      "experience": "Work as a full stack software developer. Facilitates training, Write utility programs and mentor upcoming programmers. Develop web application backends with Ruby on rails, worked with electron for cross-platform desktop. Frontend HTML5 and JavaScript. Prepare specification documents, refine requirements and facilitates research and development.",
       "type": "work"
     },
     {
-      "sn": 0,
-      "link": "https://www.media.net/",
-      "workPosition": "Software Development Engineer",
-      "periodStart": "July 2018",
-      "periodEnd": "Feb 2020",
-      "organisation": "Media.Net",
-      "experience": "<ul><li>Involved in designing, developing features and parts of an App Distribution platform.</li><li>Majorly my work involves:</li><ul><li>– Designing, writing and consuming HTTP-REST APIs.</li><li>– Setting up job queues for multiple monitoring tasks.</li><li>– Writing template code for full-stack Web and Desktop applications.</li><li>– Automating and setting up application build processes.</li><li>– Extensive research and POC creation of features,solutions for novel business requirements.</li><li>– Identifying bottlenecks across system and optimize database queries, page load time, serving time, build time.</li></ul><li>Developed node-js, python back-end applications for automating and monitoring application build processes.</li><li>Developed node-js module for restructuring and renaming directory tree, handled resolution of interlinked file-paths in files.</li><li>Developed macOs desktop application(A Safari App Extension) using Swift for search monetization with app installer and app auto update feature from scratch</li></ul>",
+      "sn": 4,
+      "link": "https://www.ecnx.net/",
+      "workPosition": "Network Support Engineer Assistance",
+      "periodStart": "June 2016",
+      "periodEnd": "April 2017",
+      "organisation": " Electronics Connections",
+      "experience": "Responsible for providing Network technical support for clients connected to the ISP on demand, handling connectivity issues and general IT support and Reporting. Mentor Industrial Training(IT) Students. Write utility  programs and tasks automation programs with python, C++ and ruby.",
+      "type": "youth service"
+    },
+    {
+      "sn": 5,
+      "link": "https://futminna.edu.ng/",
+      "workPosition": "Student Industrial Trainee",
+      "periodStart": "August 2014",
+      "periodEnd": "December 2014",
+      "organisation": " Information and  Communication Services, Federal University of Technology Minna. ITS  ",
+      "experience": "Enrolled as a Cisco Academy Student Studying Cisco certified network Associate (CCNA) and assist in  IT Administrations and support.",
+      "type": "trainee"
+    },
+    {
+      "sn": 6,
+      "link": "",
+      "workPosition": "Café Attendant",
+      "periodStart": "August 2011",
+      "periodEnd": "November 2011",
+      "organisation": "Itazcomet",
+      "experience": "Assist users with questions or problems in using the Internet or computers at the establishment. Also oversee the delivery of services and ensure user fees are collected.",
       "type": "work"
     },
     {
-      "sn": -1,
-      "link": "https://www.cohesity.com",
-      "workPosition": "Member of Technical Staff",
-      "periodStart": "Feb 2020",
-      "periodEnd": "Present",
-      "organisation": "Cohesity",
-      "experience": "<ul><li>\nDevelopingdistributedsystemsoftwareusingC++,Golangfordataprotection.</li></ul>",
+      "sn": 7,
+      "link": "",
+      "workPosition": "Café Attendant",
+      "periodStart": "May 2007",
+      "periodEnd": "November 2008",
+      "organisation": "Kings Place Cyber Cafe",
+      "experience": "Assist users with questions or problems in using the Internet or computers at the establishment. Also oversee the delivery of services and ensure user fees are collected.",
       "type": "work"
     }
+    
   ],
   "projects": [
      {
@@ -479,20 +470,17 @@
       "toolsUsed": [
         "Ruby",
         "Rails",
-        "JavaScript",
         "React",
         "Electron",
         "Postgresql",
-        "Heroku",
-        "Heroku CI"
+        "Heroku"
       ],
       "tags": [
         "learning",
         "virtual",
         "education",
         "schools",
-        "students",
-        "educators"
+        "students"
       ],
       "shortInfo": "Student Leaning  System and School management system. Facilitates learning by providing access to managed  course videos, practice questions, past examination questions. Student use it to solve practice questions, take practice tests, access class continuous assessments, quizzes, assignments,  terminal and mock examinations created by their educators. Includes Recorded videos and Virtual classes features. Performance virtualization of students and class performances over school years and terms. Allows schools to manage their entire learning process, creating classes, assigning educators, and students. Allows parents to track the activities of their kids. I built the back-end API with ruby on rails and front-end with React.",
       "link": "https://smartupwebapp.herokuapp.com/login"
