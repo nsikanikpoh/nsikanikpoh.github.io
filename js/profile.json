@@ -15,6 +15,22 @@
     "mob": "+234 806 296 1184"
   },
   "educations": [
+     {
+      "periodStart": "October 2019",
+      "periodEnd": "March 2020",
+      "course": "mastering c++ and object-oriented programming",
+      "score": "----",
+      "inst": "learncpp.com",
+      "board": "learncpp.com",
+      "courses": [
+        {
+          "courseCode": "",
+          "courseName": "mastering c++ and object-oriented programming",
+          "courseScore": "",
+          "sn": 1
+        }
+      ]
+    },
     {
       "periodStart": "April 2011",
       "periodEnd": "May 2012",
